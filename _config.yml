@@ -4,7 +4,6 @@ favicon: /assets/favicon.ico
 description: A portal to support internal and external developers in the creation and management of applications for use in Queensland's Education community.
 global_tags: jekyll theme simplex golasblog responsive html5
 copyright: © Department of Education 2022
-theme: jekyll-theme-simplex
 
 sass:
     style: compressed
