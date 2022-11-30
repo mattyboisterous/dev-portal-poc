@@ -5,6 +5,7 @@ description: A portal to support internal and external developers in the creatio
 global_tags: jekyll theme simplex golasblog responsive html5
 copyright: © Department of Education 2022
 theme: jekyll-theme-simplex
+remote_theme: andreondra/jekyll-theme-simplex
 
 sass:
     style: compressed
