@@ -71,7 +71,8 @@
             };
 
             &__metadata{
-                font-family: var(--f-header);
+                //font-family: var(--f-header);
+                font-family: "Open Sans";
                 
                 @include flexbox;
 
@@ -84,6 +85,9 @@
                         color: var(--c-noCategoryText);
                         background: var(--c-noCategoryBackground);                        
                         padding: .2rem .5rem;
+                        margin-right: 4px;
+                        min-width: 80px;
+                        text-align: center;
                     }
 
                     

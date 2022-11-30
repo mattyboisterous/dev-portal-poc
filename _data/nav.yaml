@@ -1,10 +1,10 @@
 - title: Cloud #Menu item title.
-  url: category/programming.html #Menu item url.
+  url: category/cloud.html #Menu item url.
   font: fa-cloud
   hue: "var(--c-themeHueBlue)" #Menu item hue - see note [1].
   subnav: #Subnav. See note [2].
-      - title: C++ #Submenu item title.
-        url: category/cpp.html #Submenu item url.
+      - title: Azure #Submenu item title.
+        url: category/azure.html #Submenu item url.
         hue: "var(--c-themeHueOrange)" #Submenu item hue.
         subnav: #Another subnav
             - title: Libraries

@@ -26,8 +26,8 @@
                 margin: 0;
             }
             &__img{
-                filter: var(--c-headerImageFilter);
-                height: 2rem;
+                //filter: var(--c-headerImageFilter);
+                height: 4rem;
             }
         }
     }
@@ -102,7 +102,7 @@
                     @include flexbox;
                     width: 100%;
 
-                    img,p{
+                    img,p,i{
                         transition: $t-smooth;
                         filter: var(--c-menuItemsFilter);
                     }
@@ -168,7 +168,7 @@
     
                 a:hover{
       
-                    img{
+                    img, i{
                         transform: scale(1.1);
                         filter: var(--c-menuItemsFilterHover);
 
