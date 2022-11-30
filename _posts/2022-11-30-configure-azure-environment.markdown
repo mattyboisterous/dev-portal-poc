@@ -2,7 +2,7 @@
 layout: post
 title:  "Configuring an Azure Environment - Health and Security"
 date:   2022-11-30 08:35:18 +1000
-category: [cloud, tech]
+category: [cloud, azure]
 author: mattyboisterous 
 ---
 The following is a checklist of tasks that should be performed when configuring a higher level Azure environment.

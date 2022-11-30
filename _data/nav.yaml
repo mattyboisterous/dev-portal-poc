@@ -5,11 +5,15 @@
   subnav: #Subnav. See note [2].
       - title: Azure #Submenu item title.
         url: category/azure.html #Submenu item url.
-        hue: "var(--c-themeHueOrange)" #Submenu item hue.
+        hue: "var(--c-themeHueBlue)" #Submenu item hue.
         subnav: #Another subnav
             - title: Libraries
               url: libs.html
               hue: "var(--c-themeHueBlue)"
+- title: Tech
+  url: category/tech.html
+  font: fa-microchip
+  hue: "var(--c-themeHueOrange)"
 - title: Design
   url: category/design.html
   font: fa-pen-nib
