@@ -77,20 +77,20 @@ Passwords: `node -e "console.log(require('crypto').randomBytes(64).toString('bas
 
 Navigate to the Key Vault resource and select `Access policies` -> `Add Access Policy`
 
-<a href="/assets/img/access-policies.png" data-lity>
-  <img src="/assets/img/access-policies.png"/>
+<a href="{{ site.url }}/assets/img/access-policies.png" data-lity>
+  <img src="{{ site.url }}/assets/img/access-policies.png"/>
 </a>
 
 To select the user/account, select `Select principal` and then type in the user ID. 
 
-<a href="/assets/img/add-access-policy.png" data-lity>
-  <img src="/assets/img/add-access-policy.png"/>
+<a href="{{ site.url }}/assets/img/add-access-policy.png" data-lity>
+  <img src="{{ site.url }}/assets/img/add-access-policy.png"/>
 </a>
 
 Permissions to allocate to the user/account are specified below.
 
-<a href="/assets/img/account-permissions.png" data-lity>
-  <img src="/assets/img/account-permissions.png"/>
+<a href="{{ site.url }}/assets/img/account-permissions.png" data-lity>
+  <img src="{{ site.url }}/assets/img/account-permissions.png"/>
 </a>
 
 
